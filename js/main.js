@@ -23,7 +23,7 @@ $('#postpick').on('click', function(){
   location.href = "https://postpick-app.herokuapp.com/";
 
 });
-$('#clothing').on('click', function(){
+$('#jquery').on('click', function(){
   location.href = "https://jqueryproject.herokuapp.com/";
 
 });
