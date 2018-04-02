@@ -1,0 +1,21 @@
+body{
+background-image: url('../images/ss5.jpg');
+}
+button{
+  margin:5px;
+}
+li{
+  cursor: pointer;
+
+
+}
+.list{
+  border: 1px solid black;
+  height:90px;
+}
+h1{
+  color:#fff;
+}
+#phead{
+  color:#fff;
+}
