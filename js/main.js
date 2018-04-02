@@ -24,7 +24,7 @@ $('#postpick').on('click', function(){
 
 });
 $('#clothing').on('click', function(){
-  location.href = "https://clothingstore.herokuapp.com/";
+  location.href = "https://jqueryproject.herokuapp.com/";
 
 });
 $('#btn1').on('click', function(){
